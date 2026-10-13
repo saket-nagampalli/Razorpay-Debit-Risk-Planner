@@ -9,7 +9,7 @@ A concept agent for Razorpay Agent Studio that stops subscription renewals faili
 | What | File |
 |---|---|
 | **AI build log** | [`AI_BUILD_LOG.md`](AI_BUILD_LOG.md) |
-| Clickable prototype | PROTOTYPE_LINK_HERE · or download [`prototype.html`](prototype.html) and open it in a browser |
+| Clickable prototype | [Debit Risk Planner] (https://htmlpreview.github.io/?https://github.com/saket-nagampalli/razorpay-debit-risk-planner/blob/main/prototype.html#plan) · or download [`prototype.html`](prototype.html) and open it in a browser |
 | One-page product note | [`Product_Note_Debit_Risk_Planner.pdf`](Product_Note_Debit_Risk_Planner.pdf) |
 | Model code, results, charts, data sample, research dossier | [`model_code_and_results.zip`](model_code_and_results.zip) |
 
